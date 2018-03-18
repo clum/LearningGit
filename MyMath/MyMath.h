@@ -9,4 +9,7 @@
 
 int Add(int a, int b);
 
+
+int AddOne(int a);
+
 #endif
